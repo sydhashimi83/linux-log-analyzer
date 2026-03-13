@@ -8,7 +8,7 @@ Overview
 
 This repository is a professional-grade development environment for Linux Bash scripting. It is designed to transition students from basic command execution to building modular, documented, and industrial-strength tools.
 
-[Script Template Repo Overview] (https://tinyurl.com/script-template-repo-overview)
+[Script Template Repo Overview](https://tinyurl.com/script-template-repo-overview)
 
 This environment is specifically tuned for the LAMP, Docker, and Docker Compose lab sequences, providing a robust library (/lib) and a standardized execution path (/bin).
 Getting Started with GitHub Codespaces
